@@ -1,0 +1,10 @@
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\bin\Debug\OnurMarket2025.exe.config
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\bin\Debug\OnurMarket2025.exe
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\bin\Debug\OnurMarket2025.pdb
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\obj\Debug\OnurMarket2025.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\obj\Debug\OnurMarket2025.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\obj\Debug\OnurMarket2025.exe
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\obj\Debug\OnurMarket2025.pdb
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ATAKAN\source\repos\OnurMarket2025\OnurMarket2025\obj\Debug\OnurMark.6D95C168.Up2Date

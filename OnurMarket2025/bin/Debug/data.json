@@ -1,0 +1,24 @@
+{
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "patates",
+      "Price": 30.0,
+      "Stock": 100
+    },
+    {
+      "Id": 2,
+      "Name": "Patates",
+      "Price": 50.0,
+      "Stock": 100
+    },
+    {
+      "Id": 3,
+      "Name": "soğan",
+      "Price": 50.0,
+      "Stock": 50
+    }
+  ],
+  "Customers": [],
+  "Orders": []
+}

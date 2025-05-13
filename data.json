@@ -1,0 +1,12 @@
+{
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "salatalık",
+      "Price": 45.0,
+      "Stock": 500
+    }
+  ],
+  "Customers": [],
+  "Orders": []
+}

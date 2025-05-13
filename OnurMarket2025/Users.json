@@ -1,0 +1,32 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "Username": "admin",
+      "Password": "123",
+      "IsAdmin": true,
+      "IsBlocked": false
+    },
+    {
+      "Id": 2,
+      "Username": "atakan",
+      "Password": "456",
+      "IsAdmin": true,
+      "IsBlocked": false
+    },
+    {
+      "Id": 3,
+      "Username": "burak",
+      "Password": "456",
+      "IsAdmin": false,
+      "IsBlocked": false
+    },
+    {
+      "Id": 4,
+      "Username": "yavuz",
+      "Password": "456",
+      "IsAdmin": false,
+      "IsBlocked": false
+    }
+  ]
+}

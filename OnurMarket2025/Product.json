@@ -1,0 +1,34 @@
+{
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "enginar",
+      "Price": 100.0,
+      "Stock": 38
+    },
+    {
+      "Id": 2,
+      "Name": "kalem",
+      "Price": 15.0,
+      "Stock": 93
+    },
+    {
+      "Id": 3,
+      "Name": "kupa",
+      "Price": 80.0,
+      "Stock": 19
+    },
+    {
+      "Id": 4,
+      "Name": "Çikolata",
+      "Price": 20.0,
+      "Stock": 85
+    },
+    {
+      "Id": 5,
+      "Name": "Dondurma",
+      "Price": 40.0,
+      "Stock": 20
+    }
+  ]
+}

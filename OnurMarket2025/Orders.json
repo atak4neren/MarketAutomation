@@ -1,0 +1,88 @@
+{
+  "Orders": [
+    {
+      "Id": 1,
+      "CustomerId": 3,
+      "ProductIds": [
+        1
+      ],
+      "IsApproved": false,
+      "OrderDetails": [
+        {
+          "OrderId": 0,
+          "ProductId": 1,
+          "Quantity": 2
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "CustomerId": 3,
+      "ProductIds": [
+        1
+      ],
+      "IsApproved": false,
+      "OrderDetails": [
+        {
+          "OrderId": 0,
+          "ProductId": 1,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "CustomerId": 4,
+      "ProductIds": [
+        1,
+        2,
+        3
+      ],
+      "IsApproved": true,
+      "OrderDetails": [
+        {
+          "OrderId": 0,
+          "ProductId": 1,
+          "Quantity": 2
+        },
+        {
+          "OrderId": 0,
+          "ProductId": 2,
+          "Quantity": 5
+        },
+        {
+          "OrderId": 0,
+          "ProductId": 3,
+          "Quantity": 1
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "CustomerId": 4,
+      "ProductIds": [
+        1,
+        2,
+        3
+      ],
+      "IsApproved": true,
+      "OrderDetails": [
+        {
+          "OrderId": 0,
+          "ProductId": 1,
+          "Quantity": 2
+        },
+        {
+          "OrderId": 0,
+          "ProductId": 2,
+          "Quantity": 5
+        },
+        {
+          "OrderId": 0,
+          "ProductId": 3,
+          "Quantity": 1
+        }
+      ]
+    }
+  ]
+}
